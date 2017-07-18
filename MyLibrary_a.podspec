@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'MyLibrary'
+  s.name             = 'MyLibrary_a'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of MyLibrary.'
+  s.summary          = 'MyLibrary is for test,are you ok?'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-BDView is a redColor View
+....................BDView is a redColor View....................
                        DESC
 
   s.homepage         = 'https://github.com/liaozhongru007/MyLibrary'
